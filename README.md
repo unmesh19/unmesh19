@@ -11,7 +11,7 @@
 
 - 🌱 I have completed **Post Graduation Diploma Course In Data Science – Machine Learning & AI Course In Pune**
 
-- 👨‍💻 All of my projects are available at [https://unmesh19-github-io-ld4m.vercel.app/](https://unmesh19-github-io-ld4m.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/unmesh19](https://github.com/unmesh19)
 
 - 💬 Ask me about **anything !!!**
 
