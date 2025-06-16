@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unmesh Hardikar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmesh19&label=Profile%20views&color=0e75b6&style=flat" alt="unmesh19" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **myself !!**
 
-- 🌱 I’m currently learning **MSc Mathematics at MIT Pune**
+- 🌱 I’ve completed my **MSc Mathematics at MIT Pune**
 
 - 🌱 I have completed **Post Graduation Diploma Course In Data Science – Machine Learning & AI Course In Pune**
 
